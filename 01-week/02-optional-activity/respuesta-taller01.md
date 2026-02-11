@@ -2,7 +2,7 @@
 
 ## Responder las siguientes preguntas 
 1. Contexto
-       *Antes de programar estructuras de datos, es importante reconocer dónde aparecen en situaciones reales. Esta actividad busca que identifiques ejemplos cotidianos donde se utilice la organización de datos.
+       -Antes de programar estructuras de datos, es importante reconocer dónde aparecen en situaciones reales. Esta actividad busca que identifiques ejemplos cotidianos donde se utilice la organización de datos.
 
 
 2.  Actividad
