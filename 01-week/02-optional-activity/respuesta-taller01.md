@@ -6,7 +6,7 @@
 
 
 2.  Actividad
-      -Piensa en una aplicación o sistema que uses frecuentemente.
+      - Piensa en una aplicación o sistema que uses frecuentemente.
       - Identifica al menos tres tipos de datos que maneja.
       - Describe cómo crees que esos datos podrían organizarse.
      
