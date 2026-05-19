@@ -116,7 +116,7 @@ Antes de ejecutar el proyecto debes tener instalado:
 
 Abrir una terminal en la carpeta `backend-springboot` y ejecutar:
 
-```
+
 mvn spring-boot:run
 
 Si todo funciona correctamente, el servidor quedará disponible en:
