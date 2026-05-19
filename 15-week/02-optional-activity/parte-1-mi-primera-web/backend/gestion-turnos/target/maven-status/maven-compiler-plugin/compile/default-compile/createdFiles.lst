@@ -1,0 +1,4 @@
+com\turnos\gestion\turnos\PersonaController.class
+com\turnos\gestion\turnos\PersonaRepository.class
+com\turnos\gestion\turnos\Persona.class
+com\turnos\gestion\turnos\GestionTurnosApplication.class

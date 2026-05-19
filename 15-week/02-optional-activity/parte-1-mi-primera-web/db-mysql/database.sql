@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS turnos_medicos;
+USE turnos_medicos;
+
+CREATE TABLE IF NOT EXISTS persona (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    correo VARCHAR(100) NOT NULL UNIQUE,
+    numero_documento VARCHAR(20) NOT NULL
+);
